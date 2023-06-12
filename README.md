@@ -9,7 +9,7 @@
 
 - 📝 LinkedIn [https://www.linkedin.com/in/tarragodidac/](https://www.linkedin.com/in/tarragodidac/)
 
-- 💬 Estoy terminando **Desarrollo de aplicaciones multiplataforma en UOC y varios cursos**
+- 💬 Estoy terminando **"Desarrollo de aplicaciones multiplataforma" en UOC y varios cursos**
 
 - 📫 Puedes contactarme en **dtarragol@gmail.com**
 
