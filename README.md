@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Dídac Tarragó</h1>
 <h3 align="center">Un apasionado de la tecnología.</h3>
-### *Siempre aprendiendo*
+>### Siempre aprendiendo
 
 - 🔭 Actualmente estoy trabajando en [Control de Asistencias](https://github.com/dtarragol/ControlAlumnosAndroid) y [Mensajeador](https://github.com/dtarragol/Mensajeador)
 
