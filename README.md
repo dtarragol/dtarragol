@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **Java, Kotlin, Python, C#, SQL . . .**
 
-- 👨‍💻 Algunos de mis proyectos puedes verlos en [https://didaccoder.com/](https://didaccoder.com/) ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjust%2520the%2520DidacCoder.com-8A2BE2)
+- 👨‍💻 Algunos de mis proyectos puedes verlos en [https://didaccoder.com/](https://didaccoder.com/) 
 
 
 - 📝 LinkedIn [https://www.linkedin.com/in/tarragodidac/](https://www.linkedin.com/in/tarragodidac/)
