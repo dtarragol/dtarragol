@@ -12,7 +12,7 @@
 
 - 💬 Estoy terminando **"Desarrollo de aplicaciones multiplataforma" en UOC y varios cursos**
 
-- 📫 Puedes contactarme en [![Maill](https://img.shields.io/badge/Email-dtarragol@gmail.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](dtarragol@gmail.com)
+- 📫 Puedes contactarme en [![Maill](https://img.shields.io/badge/Email-dtarragol@gmail.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](mailto:dtarragol@gmail.com)
 
 
 <h3 align="left">Experiencia en</h3>
