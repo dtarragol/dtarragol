@@ -1,9 +1,8 @@
 <h1 align="center">Hola 👋, soy Dídac Tarragó</h1>
 <h3 align="center">Un apasionado de la tecnología.</h3>
+### *Siempre aprendiendo*
 
 - 🔭 Actualmente estoy trabajando en [Control de Asistencias](https://github.com/dtarragol/ControlAlumnosAndroid) y [Mensajeador](https://github.com/dtarragol/Mensajeador)
-
-- 🌱 Estoy aprendiendo **Java, Kotlin, Python, C#, SQL . . .**
 
 - 👨‍💻 Algunos de mis proyectos puedes verlos en
 [![Web](https://img.shields.io/badge/Web-DidacCoder.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://didaccoder.com)
